@@ -1,4 +1,6 @@
-//Do your work in this file.
+// Do your work in this file.
+
+
 var View = document.createElement("div");
 View.className = "view";
 document.body.appendChild(View);
@@ -9,7 +11,7 @@ View.appendChild(Grass);
 
 var Sun = document.createElement("div");
 Sun.className = "sun";
-View.appendChild(divSun);
+View.appendChild(Sun);
 
 var Mountain = document.createElement("div");
 Mountain.className = "mountain";
